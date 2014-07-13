@@ -1,0 +1,3 @@
+moduleName=GroovyRobot
+moduleVersion=1.0
+extensionClasses=my.groovy.robot.RobotMethods
